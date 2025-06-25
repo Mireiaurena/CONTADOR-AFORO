@@ -34,6 +34,10 @@ Este proyecto implementa un sistema inteligente de control de aforo utilizando u
 - Actualización automática cada segundo (`fetch` + `setInterval`).
 - Botones ➕ y ➖ controlan remotamente el aforo.
 - Indicador visual del estado: **"✅ Espacio disponible"** o **"🚫 ¡Lleno!"**.
+  ![image](https://github.com/user-attachments/assets/086c80ca-de9b-4439-a10b-60b0c88a22ef)
+  ![image](https://github.com/user-attachments/assets/5a962ef1-8384-407d-b97d-b2d2d22db0f8)
+
+
 
 ## 📄 Estructura del Código
 
